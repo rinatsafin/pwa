@@ -97,3 +97,17 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 [![Deploy with ZEIT Now](https://zeit.co/button)](https://zeit.co/import/project?template=https://github.com/gatsbyjs/gatsby-starter-hello-world)
 
 <!-- AUTO-GENERATED-CONTENT:END -->
+
+## pwa
+
+## echo "# pwa" >> README.md
+
+## git init
+
+## git add README.md
+
+## git commit -m "first commit"
+
+## git remote add origin git@github.com:rinatsafin/pwa.git
+
+## git push -u origin master
